@@ -75,7 +75,7 @@ I'm a passionate Information Technology student with a keen interest in software
 
 ---
 
-### "Keep moving forward" - Meet The Robinsons
+### "Keep moving forward." - Meet The Robinsons
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
